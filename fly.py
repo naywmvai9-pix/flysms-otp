@@ -5,7 +5,7 @@ import re
 # === কনফিগারেশন ===
 BOT_TOKEN = "8088614895:AAFSaitJ0UWU95wmAwy8Ho3xsfGfRkNa6zc"
 CHAT_ID = "-1002707159160"
-API_TOKEN = "f3-Ydn5PUTxHTg=="
+API_TOKEN = "f3-Ydn5PUTxHTg"
 YOUR_NAME = "NAYEM"
 
 # প্যানেল থেকে ডাটা আনার লিঙ্ক
